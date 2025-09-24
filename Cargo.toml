@@ -11,3 +11,4 @@ description = "Terminal Interface for the official MyAnimeList api."
 # drop an unused branch
 # drop an unused branch
 # clarify the control flow
+# avoid re-reading the config on every call
